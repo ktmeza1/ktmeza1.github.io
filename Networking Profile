@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title><strong>Kirstin Meza</strong></title>
+	</head>
+	<body><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Jelly_cc11.jpg">
+	    <p><em> I am a 21 year old female who was born and raised in Corpus Christi, Tx.</em> </p>
+	    <ul style="font-size: 18px; font-family:Arial;font-color:green">
+	        <li>Favorite Movies</li>
+	            <ol>
+	                <li>Beauty and the Beast</li>
+	                <li>Tarzan</li>
+	                <li>Mulan</li>
+	           </ol>
+	        <li>Interests</li>
+	            <ul>
+	                <li>Hiking</li>
+	                <li>Reading</li>
+	                <li>Photography</li>
+	           </ul>
+	        <li>Places I've Been</li>
+	            <ol>
+	                <li>Mexico</li>
+	                <li>Wisconsin</li>
+	                <li>Flordia</li>
+	           </ol>
+	        <li>Places I've Worked</li>
+	            <ul>
+	                <li>YMCA</li>
+	                <li>Mirador</li>
+	                <li>Island Waves</li>
+	           </ul>
+	   </ul>
+	</body>
+</html>
