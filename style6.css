@@ -1,0 +1,1 @@
+div{    border: 1px solid black;    raidus:5px;    height:50px;    width:150px;    background-color:#ff0000;    }#header{    position:fixed;    z-index:1;}.left{    float:left;}.right{    float:right;}#footer{    clear:both;}
